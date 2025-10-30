@@ -27,3 +27,4 @@ C:\Users\pskum\source\repos\solid\SolidPrinciplesTheme\SolidPrinciplesTheme.App\
 C:\Users\pskum\source\repos\solid\SolidPrinciplesTheme\SolidPrinciplesTheme.App\obj\Debug\net9.0\SolidPrinciplesTheme.App.pdb
 C:\Users\pskum\source\repos\solid\SolidPrinciplesTheme\SolidPrinciplesTheme.App\obj\Debug\net9.0\SolidPrinciplesTheme.App.genruntimeconfig.cache
 C:\Users\pskum\source\repos\solid\SolidPrinciplesTheme\SolidPrinciplesTheme.App\obj\Debug\net9.0\ref\SolidPrinciplesTheme.App.dll
+C:\Users\pskum\source\repos\solid\SolidPrinciplesTheme\SolidPrinciplesTheme.App\obj\Debug\net9.0\SolidPrinciplesTheme.App.sourcelink.json

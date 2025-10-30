@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidPrinciplesTheme.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28435e7b003559d3ab7301656341e87459705d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidPrinciplesTheme.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidPrinciplesTheme.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
